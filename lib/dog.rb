@@ -12,4 +12,3 @@ class Dog
     @this_dogs_bark = dogs_bark
   end
 end
-    
